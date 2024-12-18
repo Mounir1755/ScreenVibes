@@ -1,0 +1,22 @@
+.square-btn {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    color: white;
+    border: solid black;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Galerij-icon{
+    height: 100px;
+    width: 100px;
+}
+
+.trailer{
+padding-left: 45px;
+}
+
