@@ -1,22 +1,62 @@
 .square-btn {
-    width: 300px;
-    height: 400px;
-    background-color: white;
-    color: white;
-    border: solid black;
-    font-size: 18px;
-    text-align: center;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  width: 300px;
+  height: 400px;
+  background-color: white;
+  color: white;
+  border: solid black;
+  font-size: 18px;
+  text-align: center;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.Galerij-icon{
-    height: 100px;
-    width: 100px;
-}
-
-.trailer{
-padding-left: 45px;
+.Galerij-icon {
+  height: 100px;
+  width: 100px;
 }
 
+
+.trailer {
+  padding-left: 45px;
+}
+
+
+.cast-container {
+  margin: 20px auto;
+  max-width: 800px;
+}
+.cast-member {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.cast-member img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+.cast-role {
+  color: gray;
+}
+
+
+.story {
+  font-weight: 400;
+}
+
+
+.stream-logo {
+    max-width: 150px;
+    max-height: 100px;
+    object-fit: contain;
+    margin: 10px auto;
+}
+
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
