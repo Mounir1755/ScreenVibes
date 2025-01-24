@@ -54,3 +54,9 @@
   font-weight: 400;
   font-style: normal;
 }
+
+.kleur-zwart
+{
+  background-color: rgb(20, 4, 4);
+  padding: 20px;
+}
